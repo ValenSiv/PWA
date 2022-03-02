@@ -253,9 +253,9 @@ span {
 }
 
 .logo {
-    display: flex;
+    display: block;
     margin: auto;
-    width: 20em;
+    width: 25em;
     padding-top: 4em;
     padding-bottom: 1rem;
 }
